@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Bhushan Wanjari</h1>
 <h3 align="center">An Enthusiast Web developer and Coder from India !!!</h3>
+
+<img align="right" alt="meme" width="400" src="https://user-images.githubusercontent.com/82889656/197354567-b26289af-7ef1-4c67-bdf2-c4b247cdbeb2.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan21z&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan21z" /> </p>
 
