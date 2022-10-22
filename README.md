@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan21z&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan21z" /> </p>
 
-- 🔭 I’m currently working on **Backend and React**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I’m currently learning **Machine Learning**
 
