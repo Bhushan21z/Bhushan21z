@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhushan21z&label=Profile%20views&color=0e75b6&style=flat" alt="bhushan21z" /> </p>
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Blockchain Technologies**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Python/ML Projects**
 
-- 👨‍💻 All of my projects are available at [https://knowme-bhushanwanjari.herokuapp.com/](https://knowme-bhushanwanjari.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://portfolio-bhushan.vercel.app/](https://portfolio-bhushan.vercel.app/)
 
 - 💬 Ask me about **React, Node, Django, Competitive Coding**
 
 - 📫 How to reach me **bhushanwanjari21z@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WrkwUBI4CSskliJIj4DdFSbtFpe4tm59/view?usp=sharing](https://drive.google.com/file/d/1WrkwUBI4CSskliJIj4DdFSbtFpe4tm59/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15yTXMu1fYpNqa1XWnPpQ_WcnN4qLkh9w/view](https://drive.google.com/file/d/15yTXMu1fYpNqa1XWnPpQ_WcnN4qLkh9w/view)
 
 - ⚡ It's not a Bug !! **⚡ It's a feature !!**
 
